@@ -20,44 +20,39 @@
 
 - **Front-End Development**:
   
-  <div style="display: flex; justify-content: center; flex-wrap: wrap;">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" >
-
-  </div>
+    ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+    ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+    ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+    ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+    ![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite&logoColor=FFD62E)&nbsp;
+    ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css)&nbsp;
 
 <br>
 
 - **Back-End Development**:
 
-  <div style="display: flex; justify-content: center; flex-wrap: wrap;">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-    <img src="https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white">
-  </div>
+    ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=FFA518)&nbsp;
+    ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot&logoColor=6DB33F)&nbsp;
+    ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+    ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
+  
 
 <br>
 
 - **Database**:
   
-  <div style="display: flex; justify-content: center; flex-wrap: wrap;">
-    <img src="https://img.shields.io/badge/MySQL-005EB8?style=for-the-badge&logo=mysql&logoColor=white">
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-  </div>
+    ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
+    ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=47A248)&nbsp;
+
 
 <br>
 
 - **Softwares and Tools**:
   
-  <div style="display: flex; justify-content: center; flex-wrap: wrap;">
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-    <img src="https://img.shields.io/badge/GitLab-%23121011.svg?style=for-the-badge&logo=gitlab&logoColor=white">
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  </div>
+    ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+    ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+    ![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)&nbsp;
+    ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 <br>
 </p>
 
